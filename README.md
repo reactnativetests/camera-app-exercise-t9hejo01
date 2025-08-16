@@ -1,6 +1,6 @@
 Create React Native application that allows users to select a profile picture by capturing image using the device’s native camera or selecting image from image library.
 
-Instructions for implementation:
+Implementation Instructions:
 
 
 1. Project Setup 
