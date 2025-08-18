@@ -44,9 +44,29 @@ o Store the URI of the selected image in the component's state.
 · Handle cases where the user cancels the camera/image picker operation.
 · Use basic styling for a clean and functional interface.
 
-TestIDs
+TestIDs:
 Add next test ids for testing
 -  profile-image
 -  change-profile-picture-button
+
+Requirements 
+
+· A ProfileScreen component.
+
+· A circular image placeholder for the profile picture.
+
+· A "Change Profile Picture" button.
+
+· Integration with a native camera/image picker library (e.g., react-native-image-picker).
+
+· Request and handle camera/photo library permissions.
+
+· Ability to "Take Photo" or "Choose from Library".
+
+· Display the selected image in the placeholder.
+
+· (Optional) Persist the selected image URI using AsyncStorage.
+
+· Handle user cancellations and permission denials gracefully.
   
 
