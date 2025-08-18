@@ -44,3 +44,9 @@ o Store the URI of the selected image in the component's state.
 · Handle cases where the user cancels the camera/image picker operation.
 · Use basic styling for a clean and functional interface.
 
+TestIDs
+Add next test ids for testing
+-  profile-image
+-  change-profile-picture-button
+  
+
